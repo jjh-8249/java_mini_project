@@ -16,11 +16,11 @@ Java Swing 기반의 기억력 향상 카드 매칭 게임입니다.
 
 ![클래스 다이어그램](src/MemoryCard/images/Class_Diagram.png)
 
-## 애니메이션
+## 시연영상
 
 게임의 애니메이션을 확인하세요!
 
-![시연영상](src/MemoryCard/images/Animation.gif)
+![애니메이션](src/MemoryCard/images/Animation.gif)
 
 ## 메인 화면
 
