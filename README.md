@@ -10,20 +10,20 @@ Java Swing 기반의 기억력 향상 카드 매칭 게임입니다.
 - 성공/실패 시 시각적 피드백 제공
 - 난이도 조절 및 게임 초기화 기능 (옵션)
 
-## 클래스 다이어그램
+## 클래스 다이어 그램
 
-다음은 이 프로젝트의 클래스 다이어그램입니다.
+다음은 이 프로젝트의 클래스 다이어 그램입니다.
 
 ![클래스 다이어그램](src/MemoryCard/images/Class_Diagram.png)
 
 ## 애니메이션
 
-게임 애니메이션을 보여주는 GIF입니다.
+게임의 애니메이션을 확인하세요!
 
-![애니메이션](src/MemoryCard/images/Animation.gif)
+![시연영상](src/MemoryCard/images/Animation.gif)
 
 ## 메인 화면
 
-게임의 메인 화면 이미지입니다.
+게임의 메인 화면 이미지를 확인하세요!
 
 ![메인 화면](src/MemoryCard/images/Main.png)
