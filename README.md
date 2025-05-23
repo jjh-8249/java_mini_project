@@ -49,7 +49,7 @@ Java Swing 기반의 기억력 향상 카드 매칭 게임입니다.
 
 ### ♻️ 다시 시작 버튼
 
-![다시 시작](https://github.com/jjh-8249/java_mini_project/blob/main/src/MemoryCard/images/Re-start.png?raw=true)
+![다시 시작](https://github.com/jjh-8249/java_mini_project/blob/main/src/MemoryCard/images/Restart.png?raw=true)
 
 ### 🧹 순위 초기화
 
